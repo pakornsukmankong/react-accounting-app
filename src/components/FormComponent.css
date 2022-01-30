@@ -1,0 +1,20 @@
+Form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 200px;
+  margin: 20px auto ;
+}
+
+.formLabel {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.formControl {
+  margin-bottom: 10px;
+}
+
+button {
+  width: 100%;
+}
